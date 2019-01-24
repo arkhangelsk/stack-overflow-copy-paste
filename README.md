@@ -29,3 +29,5 @@ snakeToCamel('snake-case-string') // 'snakeCaseString'
 
 MIT
 
+HERE ARE CHANGES
+
